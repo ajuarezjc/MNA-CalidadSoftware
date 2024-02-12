@@ -1,0 +1,15 @@
+Results for file: TC1.Sales.json
+Sales total: 2481.86
+Execution time: 0.0005707740783691406 s
+
+
+Results for file: TC2.Sales.json
+Sales total: 166568.23
+Execution time: 0.0012578964233398438 s
+
+
+Results for file: TC3.Sales.json
+Sales total: 165235.37
+Execution time: 0.0004398822784423828 s
+
+
